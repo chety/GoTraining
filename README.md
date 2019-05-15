@@ -1,0 +1,1 @@
+This repo is containing my go course code snippets
