@@ -10,4 +10,4 @@ If you want to create a repo from scratch here is the milestones.
 This command ensures that your local repo connects to the right github repo.
 8)"git push -u origin master".
 
-Thats all. 
+Thats all.

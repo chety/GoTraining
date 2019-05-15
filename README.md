@@ -1,1 +1,1 @@
-This repo is containing my go course code snippets
+This repo contains my go course code snippets
