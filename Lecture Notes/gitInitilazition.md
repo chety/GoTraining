@@ -1,6 +1,6 @@
-> If you want to create a repo from _scratch_ here is the milestones.
+### If you want to create a repo from _scratch_ here is the milestones.
 
-- Go to github.com or whatever your favourite git provider and create a repo. Do not add any **gitignore ...vs files.**
+- Go to _github.com_ or whatever your favourite git provider and create a repo. Do not add any **gitignore ...etc files.**
 - In your locale open `Git bash` and head to your project directory.
 - **`Git init`** -> This initializes your empty git repo
 - From your favourite ide add  _.gitignore and README.md_ file.
